@@ -1,7 +1,7 @@
 # eyeo
 
 ## Programming languages & frameworks used
-Programming languages: python, Java 
+Programming languages: python, Java
 Frameworks: py.test, Junit, Selenium, Appium, RESTassured 
 
 ## With what I would start to improve/start automation
