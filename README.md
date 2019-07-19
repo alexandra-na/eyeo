@@ -1,7 +1,7 @@
 # eyeo
 
 ## Programming languages & frameworks used
-* I have never been working with JS as I said so here is a bit about my technical background: 
+* Since I have never been working with JS, here is a bit about my technical background: 
 1. Programming languages: python, Java, SQL, Bash (basic), MSDOS, HTML (basic), CSS (basic)
 2. Test frameworks: py.test, Junit, Selenium, Appium, RESTassured
 3. Performance testing tools: JMeter, Locust 
